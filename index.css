@@ -1,0 +1,7 @@
+body {
+    margin: 30px;
+    background-color: rgb(69, 69, 26);
+}
+img:hover {
+    background-color: yellow;
+  }
